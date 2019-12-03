@@ -7,11 +7,14 @@
 
 This workshop will equip newcowers with the cornerstones of a foundation for applying computational text analysis methods in their work. The focus is on high-level descriptions of what existing methods do and user-friendly implementations. It's drawn from the first day of a [four-day workshop on computational text analysis held at the D-Lab](https://github.com/dlab-berkeley/computational-text-analysis-spring-2019). The following days cover regular expressions, unsupervised methods, and supervised methods. 
 
-## What you'll learn
-* what computational text analysis can do, and what it can't do
-* preprocessing text data
-
-* where to go next to learn and seek help with your computational text analysis projects
+## Workshop goals
+* Provide a general roadmap of computational text analysis (CTA) 
+* Build intuitions about using text as data
+* Gain practice with preprocessing and more
+* Understand at a high-level:
+  - how a few primary CTA methods work
+  - what kinds of questions they answer
+  - how to design and implement a CTA project
 
 ## Prerequisites
 
