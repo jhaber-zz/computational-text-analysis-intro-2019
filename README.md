@@ -1,5 +1,7 @@
 # Computational text analysis: A brief introduction for TextXD 2019
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jhaber-zz/computational-text-analysis-intro-2019/master)
+
 
 ## Overview
 
@@ -33,8 +35,9 @@ It's OK Not To Know! That's our motto at [D-Lab](http://dlab.berkeley.edu/). D-L
 
 * [CTAWG (Computational Text Analysis Working Group) website](http://dlabctawg.github.io)
 * [Lectures from Stanford's NLP class](https://www.youtube.com/watch?v=nfoudtpBV68&list=PL6397E4B26D00A269)
-* [Tutorials on NLTK and SpaCy](https://github.com/geoffbacon/nlp-with-nltk-spacy)
-* [Info 256 - Applied NLP class by David Bamman](https://www.ischool.berkeley.edu/courses/info/256)
+* [Workshops on NLTK and SpaCy at the D-Lab](https://github.com/geoffbacon/nlp-with-nltk-spacy)
+* [Computational Text Analysis 4-day workshop at the D-Lab](https://github.com/dlab-berkeley/computational-text-analysis-spring-2019)
+* [Info 256 Spring 2019 - Applied NLP class by David Bamman](https://www.ischool.berkeley.edu/courses/info/256)
 
 ## Contributing
 
